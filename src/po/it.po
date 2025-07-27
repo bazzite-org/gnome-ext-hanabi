@@ -2,13 +2,14 @@
 # Copyright (C) 2023 Jeff Shee (jeffshee8969@gmail.com)
 # This file is distributed under the same license as the gnome-ext-hanabi package.
 # アントネッロ <amanocchio426@gmail.com>, 2024.
-# Federico Giovine <giovine.federico@gmail.com>, 2024.
+# Federico Giovine <giovine.federico@gmail.com>, 2024, 2025.
+# albanobattistella <albano_battistella@hotmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: 1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-25 18:29+0900\n"
-"PO-Revision-Date: 2024-09-29 14:15+0000\n"
+"PO-Revision-Date: 2025-07-27 22:15+0000\n"
 "Last-Translator: Federico Giovine <giovine.federico@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/gnome-ext-hanabi/"
 "gnome-ext-hanabi/it/>\n"
@@ -17,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: src/panelMenu.js:70 src/panelMenu.js:85
 msgid "Pause"
@@ -77,7 +78,7 @@ msgstr "Metti in pausa quando il MPRIS media player è attivo"
 
 #: src/prefs.js:69
 msgid "Wallpaper Changer"
-msgstr ""
+msgstr "Cambia Sfondo"
 
 #: src/prefs.js:72
 msgid "Change Wallpaper Automatically"
@@ -230,7 +231,7 @@ msgstr "Questa funzionalità richiede Gtk 4.8 o successiva"
 
 #: src/prefs.js:371
 msgid "Pause on Maximize or Fullscreen"
-msgstr ""
+msgstr "Pausa su Massimizza o Schermo intero"
 
 #: src/prefs.js:372
 msgid "Pause playback when there is maximized or fullscreen window"
@@ -268,7 +269,7 @@ msgstr "Tutti i monitor"
 
 #: src/prefs.js:407
 msgid "Pause on Battery"
-msgstr ""
+msgstr "Metti in pausa quando il dispositivo è alimentato dalla batteria"
 
 #: src/prefs.js:408
 msgid "Pause playback when the device is on battery or the battery is low"
